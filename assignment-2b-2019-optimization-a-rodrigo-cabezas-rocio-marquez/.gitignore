@@ -1,0 +1,10 @@
+*.csv
+data/*
+.ipynb_checkpoints
+__pycache__
+*.pyc
+*.zip
+!data/mlr10.csv
+!data/slr05.csv
+!data_public.zip
+!data_kaggle.zip
